@@ -1,0 +1,6 @@
+Link to Error Directory: https://people.rit.edu/~keh4912/230/error/
+
+Link to Non-Existant Page in Error Directory: https://people.rit.edu/~keh4912/230/error/notreal
+
+Link to Auth Directory: https://people.rit.edu/~keh4912/230/auth/
+
